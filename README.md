@@ -13,7 +13,7 @@ Todos os materiais foram disponibilizados de forma anonima.
   `docs/FORMULÁRIO PRE ENTREVISTA.pdf`,
   `docs/FORMULÁRIO POS ENTREVISTA.pdf`  
 - **Planilha de Respostas (Anonimizada):**
-  `results/resultados Pre-entrevista.pdf`
-  `results/resultados Pre-entrevista.csv`
-  `results/resultados Pos-entrevista.pdf`
+  `results/resultados Pre-entrevista.pdf`,
+  `results/resultados Pre-entrevista.csv`,
+  `results/resultados Pos-entrevista.pdf`,
   `results/resultados Pos-entrevista.csv`
