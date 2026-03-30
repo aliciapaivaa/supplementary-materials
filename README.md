@@ -7,7 +7,7 @@ Uma nova visualização de Refatorações em Pull Requests: Proposta e Avaliaç�
 Todos os materiais foram disponibilizados de forma anonima.
 
 ## Conteúdo
-- **Protótipo:** <LINK_DO_PROTOTIPO>
+- **Protótipo:** https://www.figma.com/design/TjGlLw4GcTobKEYn7Puurs/WASHES-2026?node-id=0-1&t=MQC6KNKhPR9ckU6C-1
 - **TCLE (Termo de Consentimento Livre e Esclarecido):** `docs/TCLE.pdf`  
 - **Perguntas do Formulário:**
   `docs/FORMULÁRIO PRE ENTREVISTA.pdf`,
